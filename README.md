@@ -6,7 +6,7 @@ Nature inspired algorithms were used to optimise benchmark functions 1 and 2.
 
 Function 1            |  Function 2
 :-------------------------:|:-------------------------:
-![](Images/FunctionOne.png)  |  ![](Images/FunctionOne.png)
+![](Images/FunctionOne.png)  |  ![](Images/FunctionTwo.png)
 
 ## What are genetic algorithms?
 ![](Images/cuteGA.jpg)
