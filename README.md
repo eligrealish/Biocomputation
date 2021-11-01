@@ -8,6 +8,8 @@ Function 1            |  Function 2
 :-------------------------:|:-------------------------:
 ![](Images/FunctionOne.png)  |  ![](Images/FunctionTwo.png)
 
+This project experiements with genetic algorithm operators solves for N and D both at size 100.
+
 ## What are genetic algorithms?
 ![](Images/cuteGA.jpg)
 
@@ -19,6 +21,7 @@ Genetic algorithms are a class of computation algorithm that represent problem s
 This project uses genetic algorithms to optimise functions 1 and 2. Optimisation is an important part of data science and genetic algorithms are good at optimising of functions for problems involved in operation management, multimedia and wireless networking.
 
 ## What is the experimentation process?
+To solve for N and D at size 100 experiements are carried out at size 10 for both functions. The experiements investigate the effect the genetic algorithm operators have on these functions at size 10 to scale up to size 100.
 
 ## The results 
 
