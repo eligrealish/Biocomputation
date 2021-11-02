@@ -25,21 +25,36 @@ To solve for N and D at size 100 experiements are carried out at size 10 for bot
 
 ### Size 10 Experiments
 Operator 1 : Uniform creep mutation 
+
 ![](Images/uniform%20creep%20mutation.PNG)
 
 Operator 2 : Gaussian Creep mutation
 
+![](Images/gaussian%20creep%20mutation.PNG)
+
 Operator 3 : Random resetting mutation 
+
+![](Images/random%20resetting%20mutation.PNG)
 
 Operator 4 : Scramble mutation
 
+![](Images/scramble%20mutation.PNG)
+
 Operator 5 : Uniform crossover 
+
+![](Images/uniform%20crossover.PNG)
 
 Operator 6 : Arithmetic crossover
 
+![](Images/Arithmetic%20crossover.PNGG)
+
 Operator 7 : Survivor selection 
 
+![](Images/Survivor%20selection.PNG)
+
 Operator 8 : Tournament selection 
+
+![](Images/tournemant%20selection.PNG)
 
 ### Size 100 Experiments 
 Final function 1 experiment 
