@@ -20,14 +20,34 @@ Genetic algorithms are a class of evolutionary algorithm that represent problem 
 
 This project uses genetic algorithms to optimise functions 1 and 2. Optimisation is an important part of data science and genetic algorithms are good at optimising of functions for problems involved in operation management, multimedia and wireless networking.
 
-## What is the experimentation process?
+## The experimentation process
 To solve for N and D at size 100 experiements are carried out at size 10 for both functions. The experiements investigate the effect the genetic algorithm operators have on these functions at size 10 to scale up to size 100.
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+### Size 10 Experiments
+Operator 1 : Uniform creep mutation 
+![](Images/uniform%20creep%20mutation.PNG)
 
-## The results 
+Operator 2 : Gaussian Creep mutation
+
+Operator 3 : Random resetting mutation 
+
+Operator 4 : Scramble mutation
+
+Operator 5 : Uniform crossover 
+
+Operator 6 : Arithmetic crossover
+
+Operator 7 : Survivor selection 
+
+Operator 8 : Tournament selection 
+
+### Size 100 Experiments 
+Final function 1 experiment 
+
+Final function 2 experiment 
+
+
 
 ## Conclusion
+Through the process of experimentation, optimal operators were found for large problem sizes. The knowledge learnt and the code written from this project could be used for other problems that requires function optimisation. 
 
