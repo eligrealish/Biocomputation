@@ -26,42 +26,44 @@ To solve for N and D at size 100 experiements are carried out at size 10 for bot
 ### Size 10 Experiments
 Operator 1 : Uniform creep mutation 
 
-![](Images/uniform%20creep%20mutation.PNG)
+<img src="Images/uniform%20creep%20mutation.PNG" width="480">
 
 Operator 2 : Gaussian Creep mutation
 
-![](Images/gaussian%20creep%20mutation.PNG)
+<img src="Images/gaussian%20creep%20mutation.PNG" width="480">
 
 Operator 3 : Random resetting mutation 
 
-![](Images/random%20resetting%20mutation.PNG)
+<img src="Images/random%20resetting%20mutation.PNG" width="480">
 
 Operator 4 : Scramble mutation
 
-![](Images/scramble%20mutation.PNG)
+<img src="Images/scramble%20mutation.PNG" width="480">
 
 Operator 5 : Uniform crossover 
 
-![](Images/uniform%20crossover.PNG)
+<img src="Images/uniform%20crossover.PNG" width="480">
 
 Operator 6 : Arithmetic crossover
 
-![](Images/Arithmetic%20crossover.PNGG)
+<img src="Images/Arithmetic%20crossover.PNG" width="480">
 
 Operator 7 : Survivor selection 
 
-![](Images/Survivor%20selection.PNG)
+<img src="Images/Survivor%20selection.PNG" width="480">
 
 Operator 8 : Tournament selection 
 
-![](Images/tournemant%20selection.PNG)
+<img src="Images/tournemant%20selection.PNG" width="480">
 
 ### Size 100 Experiments 
-Final function 1 experiment 
+Final function 1 experiment  
+
+<img src="Images/function1%20solved.PNG" width="480">
 
 Final function 2 experiment 
 
-
+<img src="Images/function2%20solved.PNG" width="480">
 
 ## Conclusion
 Through the process of experimentation, optimal operators were found for large problem sizes. The knowledge learnt and the code written from this project could be used for other problems that requires function optimisation. 
