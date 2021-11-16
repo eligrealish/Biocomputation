@@ -1,0 +1,22 @@
+Number of Runs,1
+Number of Generations,2
+N (Size of Cromosome),5
+P (Size of Population),10
+
+Selection,Survivor
+Survivor Elite percentage,0.2
+Crossover,Uniform
+Uniform probablitly,0.5
+Mutation,Creep
+Step size,0.5,Mutation Rate,0.01
+
+Fitness Function,10N + SUM(Gene - 10 x Cos(2pi x Gene)
+
+Run 1,,,
+Generations,Mean,Lowest,All Gene Stand Div,
+Generation 1,72.59775570735805,50.42960977553066,2.5219310088392133,
+Generation 2,61.63497688919538,38.49285542115288,2.467480295073239,
+Best,61.63497688919538,38.49285542115288,
+Generation,2,2,
+
+1,6,-,1,4,-,1,8

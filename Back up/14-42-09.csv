@@ -1,0 +1,26 @@
+Number of Runs,1
+Number of Generations,5
+N (Size of Cromosome),100
+P (Size of Population),500
+
+Selection,Survivor
+Survivor Elite percentage,0.2
+Crossover,Uniform
+Uniform probablitly,0.5
+Mutation,Creep
+Step size,0.5,Mutation Rate,0.01
+
+Fitness Function,10N + SUM(Gene - 10 x Cos(2pi x Gene)
+
+Run 1,,,
+Generations,Mean,Lowest,
+Generation 1,1801.4171572321372,1502.459005330104,
+Generation 2,1683.8481130312841,1460.3799957542053,
+Generation 3,1585.2814056333655,1365.579079651705,
+Generation 4,1499.098645068218,1272.7699542965406,
+Generation 5,1404.0290744656363,1109.2189432718476,
+Best,1404.0290744656363,1109.2189432718476,
+Generation,5,5,
+
+14-42-09
+"The following was done with an adaptive random reset prob and a mutation prob, the rate at which they happen is 0.01 for rest and 0.02 for muation, the step rate is big little, randomly chosen and adaptive big 1,4 little 0.5 1"
